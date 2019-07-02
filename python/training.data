@@ -1,0 +1,6 @@
+classes= 20
+train  = /home/user/darknet/training/train.txt
+valid  = /home/user/darknet/training/test.txt
+names = /home/aadc/AADC/src/aadcUser/mlGuys/python/training.names
+backup = /home/user/darknet/backup
+
